@@ -1,12 +1,13 @@
 ---
 name: career-theme-pitch
 description: Interview a job seeker podcast-style, name their career theme, then write problem-first resume summaries and a LinkedIn rewrite for a job posting. Use for job search, resume, or LinkedIn help.
-goal: Help the user complete: I help (team) with (problem). I do it by (theme). For example, (story and result). The theme is the how.
 ---
 
 # Career Theme Pitch
 
 This skill helps a job seeker answer one question for a hiring team: "Is there enough here to move this person forward?" Early screening is about reducing doubt, not finding the most impressive person. The user wins by showing, fast, that they have already solved the problem this job exists to solve.
+
+The goal: Help the user complete: I help (team) with (problem). I do it by (theme). For example, (story and result). The theme is the how.
 
 The work follows a fixed order. Each step feeds the next, so do not skip ahead. The interview comes first on purpose: the user's stories and theme should shape how they read job descriptions, not the other way around.
 
