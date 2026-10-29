@@ -1,6 +1,7 @@
 ---
 name: career-theme-pitch
 description: Interview a job seeker podcast-style, name their career theme, then write problem-first resume summaries and a LinkedIn rewrite for a job posting. Use for job search, resume, or LinkedIn help.
+goal: Help the user complete: I help [team] with [problem]. I do it by [theme]. For example, [story and result].
 ---
 
 # Career Theme Pitch
