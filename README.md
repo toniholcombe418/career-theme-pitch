@@ -8,14 +8,17 @@ Created by Toni Holcombe, host of [Tell Me About a Time](https://tellmeaboutatim
 
 ## What it does
 
-1. **Interviews you.** Claude asks one question at a time about your work stories, the way a podcast host would. It pushes past vague answers until each story has what happened, how you handled it, and the result.
+1. **Interviews you.** Claude asks one question at a time about your work stories, the way a podcast host would, with a countdown so you know how many are left. It pushes past vague answers until each story has what happened, how you handled it, and the result.
 2. **Names your theme.** Claude finds the move you make again and again across jobs, names it in your own words, and checks that it rings true to you.
 3. **Reads your resume and LinkedIn profile.** It flags stories your documents leave out, and results you never mentioned.
 4. **Finds the business problem.** For each job posting you share, Claude answers one question: what goes wrong for this company if this seat stays empty?
 5. **Aligns your accomplishments.** It matches your strongest stories to that problem and tells you honestly where the gaps are.
-6. **Writes three resume summaries.** Short, problem-first, and built on facts you confirmed.
-7. **Rewrites your LinkedIn profile.** Headline, About, experience, and skills, written for how recruiters and LinkedIn's AI hiring tools actually read profiles.
-8. **Offers a resume rewrite.** Only if you say yes.
+6. **Writes three resume summaries.** Short, built on facts you confirmed, and each one names the business problem from the posting.
+7. **Offers to rewrite your LinkedIn profile.** Headline, About, experience, and skills, written for how recruiters and LinkedIn's AI hiring tools actually read profiles.
+8. **Offers to build a master resume.** A general version for your target role, using standard section headers that applicant tracking systems (ATS) can read.
+9. **Offers a tailored resume for each posting.** It starts from the master resume and changes the summary, bullet order, and skills to fit each job. Paste a new posting at any time to get another.
+
+Claude names each step as it starts and tells you what is still to come, so nothing gets skipped.
 
 The rules behind the summaries and the LinkedIn rewrite come from research on how recruiters and LinkedIn's AI tools screen candidates. See `references/screening-research.md` for the sources and how strong each one is.
 
