@@ -211,6 +211,9 @@ Write the full profile in a document the user can copy from, in this order:
 - Replace claims with evidence. "Storyteller at heart" is a claim the AI cannot verify. The story that proves it is evidence.
 
 **Experience, for every role**
+- **Every role gets 3 to 5 bullets.** No more, no fewer. Count them before delivering. To get under 5, merge bullets that describe the same work, then cut tasks and unproven claims first. If a role has fewer than 3 bullets with proof, ask the user for another story before adding a weaker line.
+- **No label lead-ins.** Drop prefixes like "SEO Strategy:" or "Team Leadership:". Start each bullet with a verb.
+- **Order bullets by the target role's goals.** Lead with the bullet that best proves what the target postings screen for.
 - Keep the official title. Background checks verify it. If the title hides the work, add scope in the first line, such as "Managed a network of 66 freelance writers."
 - Put the strongest result first. Recruiters read the first line under the latest job, and LinkedIn's AI quotes lines like it.
 - Every line stands alone with what, how, and result. Start with a verb that matters to the target role.
@@ -256,8 +259,8 @@ The master resume targets the role family, not one posting. Its summary still op
 - **Dates include months:** 06/2021 - 02/2024. Use the same format for every role and degree.
 - **Optional context line:** one short line describing the company goes after the title, company, and dates line. Use it when the company is not well known.
 - **Keep the official title.**
-- **Bullets** follow the LinkedIn experience rules from Step 8: strongest result first, what, how, and result, a relevant verb up front.
-- **Older roles** stay under EXPERIENCE, with fewer bullets. Do not move them into a separate section.
+- **Bullets** follow the LinkedIn experience rules from Step 8: 3 to 5 per role, no label lead-ins, strongest result first, what, how, and result, a relevant verb up front.
+- **Older roles** stay under EXPERIENCE, at the low end of 3 to 5 bullets. Do not move them into a separate section.
 
 *Words*
 - **Put posting keywords inside achievement bullets,** not only in SKILLS. Keywords in context score better and prove the skill.
@@ -276,6 +279,8 @@ The master resume targets the role family, not one posting. Its summary still op
 *File*
 - **Use the file type the posting asks for.** If it does not say, deliver a document the user can export to .docx, which most current systems read. A text-based PDF is the second choice. Some older guidance recommends .doc (Word 97-2003). Mention it only if the user is applying through an older system that rejects .docx.
 
+Before delivering, count the bullets under every role. Fix any role outside 3 to 5.
+
 After the master resume, list what you could not confirm and what would make it stronger, in three short lines or fewer.
 
 **Checkpoint:** the master resume is delivered, or the user declined. Then ask the Step 10 question.
@@ -292,7 +297,7 @@ A tailored resume starts from the master resume and changes only what the postin
 - **Exact job title:** add a target line under the contact information with the posting's exact title, such as "Target role: Senior Manager, Data Governance." Recruiters and the ATS match on the exact title. A target line names the job without claiming the user has held it.
 - **Title words in the summary:** mirror this posting's function words, without claiming a level the user has not held.
 - **Keywords:** work this posting's key terms into existing bullets where they truly fit. Do not stack them only in SKILLS.
-- **Bullet order:** within each role, move the bullets that answer this posting's problem to the top. Cut bullets that do not help with this posting if space is tight.
+- **Bullet order:** within each role, move the bullets that answer this posting's problem to the top. Swap in bullets that fit this posting better, but keep every role at 3 to 5 bullets.
 - **Skills:** use this posting's exact terms for skills the user truly has.
 - **Same ATS rules** as the master resume. Same headers, same order.
 - **Never add a claim** that is not in the master resume, the interview, or the profile.
