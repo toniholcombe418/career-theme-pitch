@@ -7,8 +7,6 @@ description: Interview a job seeker podcast-style, name their career theme, then
 
 This skill helps a job seeker answer one question for a hiring team: "Is there enough here to move this person forward?" Early screening is about reducing doubt, not finding the most impressive person. The user wins by showing, fast, that they have already solved the problem this job exists to solve.
 
-The goal: Help the user complete: I help (team) with (problem). I do it by (theme). For example, (story and result). The theme is the how.
-
 The work follows a fixed order. Each step feeds the next, so do not skip ahead. The interview comes first on purpose: the user's stories and theme should shape how they read job descriptions, not the other way around.
 
 1. Interview the user for stories
@@ -237,23 +235,46 @@ Do not rewrite the resume unless the user says yes.
 
 The master resume targets the role family, not one posting. Its summary still opens with a business problem: use the problem that repeats across the postings the user shared. If they shared only one, use that posting's problem in general terms. Include the contrast line from Step 2.
 
-**ATS format rules.** Screening software reads standard sections in a standard order. Custom headers can cause it to drop or misfile content. Follow these exactly:
+**ATS format rules.** Screening software reads standard sections in a standard order. Custom headers, odd characters, and decoration can cause it to drop or misfile content. A person reads the resume next, so keep simple bold, caps, and bullets. Follow these exactly:
 
-- **Contact information** at the top of the page body, not in a header or footer: name, city and state, phone, email, LinkedIn URL.
-- **Use only these section headers, in this order:**
-  1. Summary
-  2. Experience
-  3. Education
-  4. Skills
-  5. Certifications (only if the user has any)
-  6. Volunteer Experience (only if it adds proof)
-- **Do not invent other headers.** No "Selected Achievements," "Core Competencies," "Professional Summary," "Earlier Experience," or "Volunteer Leadership." Put achievements as bullets inside Experience, where they sit next to the job that earned them. Put competencies in Skills.
-- **Each role uses one line in this format:** Job Title, Company, City, State, Month Year to Month Year. Keep the official title.
+*Top of the page*
+- **Line 1 is the name only.** No punctuation, no nickname in parentheses, no credentials. Degrees or certifications like MBA or CPA go on a separate line, if at all.
+- **Contact information** goes in the page body, not in a header or footer: city and state, phone, email, LinkedIn URL.
+
+*Sections*
+- **Use only these section headers, in ALL CAPS, in this order:**
+  1. SUMMARY
+  2. EXPERIENCE
+  3. EDUCATION
+  4. SKILLS
+  5. CERTIFICATIONS (only if the user has any)
+  6. VOLUNTEER EXPERIENCE (only if it adds proof)
+- **Do not invent other headers.** No "Selected Achievements," "Core Competencies," "Professional Summary," "Earlier Experience," or "Volunteer Leadership." Put achievements as bullets inside EXPERIENCE, where they sit next to the job that earned them. Put competencies in SKILLS.
+
+*Each role*
+- **First line:** Job Title, Company, City, State, with dates on the right of the same line, set with a right-aligned tab, not a table.
+- **Dates include months:** 06/2021 - 02/2024. Use the same format for every role and degree.
+- **Optional context line:** one short line describing the company goes after the title, company, and dates line. Use it when the company is not well known.
+- **Keep the official title.**
 - **Bullets** follow the LinkedIn experience rules from Step 8: strongest result first, what, how, and result, a relevant verb up front.
-- **Older roles** stay under Experience, with fewer bullets. Do not move them into a separate section.
-- **Skills** use plain comma-separated lists, with words from the target postings, limited to skills the user truly has.
-- **One column.** No tables, text boxes, graphics, icons, or skill bars.
-- **Deliver it as a document the user can export to .docx or a text-based PDF.**
+- **Older roles** stay under EXPERIENCE, with fewer bullets. Do not move them into a separate section.
+
+*Words*
+- **Put posting keywords inside achievement bullets,** not only in SKILLS. Keywords in context score better and prove the skill.
+- **Name specific tools:** "Power BI," not "visualization software."
+- **Spell out each acronym once with its abbreviation:** "Electronic Data Interchange (EDI)." After that, the abbreviation alone is fine.
+- **No accented letters or special characters.** Some systems read "résumé" as "r?sum?." Write "resume." Avoid symbols such as arrows, checkmarks, stars, and emoji.
+- **SKILLS** uses plain comma-separated lists, with words from the target postings, limited to skills the user truly has.
+- **Certifications in progress** that a posting requires are listed as "Pursuing [certification name]."
+- **Spell-check everything.** The ATS will not match a misspelled keyword.
+
+*Layout*
+- **One column.** No tables, text boxes, columns, graphics, icons, skill bars, borders, lines, or shading.
+- **One standard font** (Arial, Calibri, Georgia, Tahoma, or Verdana), 11 point or larger, one size for body text. No condensed or expanded letter spacing.
+- **Length:** two pages is fine. On page two, put the name and "Page 2" in the header, where the ATS will skip it.
+
+*File*
+- **Use the file type the posting asks for.** If it does not say, deliver a document the user can export to .docx, which most current systems read. A text-based PDF is the second choice. Some older guidance recommends .doc (Word 97-2003). Mention it only if the user is applying through an older system that rejects .docx.
 
 After the master resume, list what you could not confirm and what would make it stronger, in three short lines or fewer.
 
@@ -268,7 +289,9 @@ Also ask it every time the user pastes a new job description later in the conver
 A tailored resume starts from the master resume and changes only what the posting needs:
 
 - **Summary:** rewrite so it opens with this posting's business problem from Step 5. Quote the problem sentence above the summary so the user can see the link.
-- **Title words:** mirror this posting's function words in the summary, without claiming a level the user has not held.
+- **Exact job title:** add a target line under the contact information with the posting's exact title, such as "Target role: Senior Manager, Data Governance." Recruiters and the ATS match on the exact title. A target line names the job without claiming the user has held it.
+- **Title words in the summary:** mirror this posting's function words, without claiming a level the user has not held.
+- **Keywords:** work this posting's key terms into existing bullets where they truly fit. Do not stack them only in SKILLS.
 - **Bullet order:** within each role, move the bullets that answer this posting's problem to the top. Cut bullets that do not help with this posting if space is tight.
 - **Skills:** use this posting's exact terms for skills the user truly has.
 - **Same ATS rules** as the master resume. Same headers, same order.
@@ -278,7 +301,13 @@ After each tailored resume, list in three short lines or fewer what changed from
 
 Keep the master resume unchanged. Name each tailored version by company and role so the user can keep them apart.
 
-**Checkpoint:** every posting has a tailored resume, or the user declined. Then remind them they can paste a new posting at any time to get another.
+**Checkpoint:** every posting has a tailored resume, or the user declined. Then share the application tips below, and remind them they can paste a new posting at any time to get another.
+
+**Application tips** (share once, after the first tailored resume):
+- Upload the resume file instead of pasting text into the application's boxes. A person sees the formatted version later.
+- A referral or personal connection usually still goes through the ATS, so apply through the posting too.
+- Check the spam folder after applying. Automatic confirmations often land there.
+- Everything on the resume can be tested in an interview or a skills test, so keep every claim one the user can back up.
 
 ## Output format
 
