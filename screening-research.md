@@ -75,7 +75,34 @@ How it works:
 - Screening question answers get scored too. Write them like strong bullets.
 - Keep the profile current, since scores are recalculated.
 
-## 6. What the research does not cover
+## 6. ATS formatting guidance from a university career office
+
+**Source: University of Illinois Chicago, Office of Career Services, "Optimizing Resumes for Applicant Tracking Systems." Moderate strength. Practical guidance, not a study, and undated.**
+
+- An ATS reads the resume, then ranks and scores qualifications against the job description. Only high scores get a call.
+- Customize each resume with language from the job description. One version for every job does not work.
+- Use keywords in context, inside achievement bullets, not only as a skills list.
+- Be specific: "Adobe Photoshop," not "image-editing software."
+- Spell out terms with their abbreviations: "Certified Public Accountant (CPA)."
+- The ATS will not recognize misspelled words.
+- No accented letters or special characters. The ATS may read "résumé" as "r?sum?."
+- Name alone on the top line, with no punctuation and no credentials after it.
+- No headers or footers for contact information. No borders, lines, symbols, or shading. Bullets are fine.
+- One column. No tables, multiple columns, or text boxes.
+- Standard fonts (Arial, Georgia, Tahoma, Calibri, Verdana), 11 point or larger, without mixing fonts or sizes. No condensed or expanded spacing.
+- Dates include months and sit on the right.
+- Section headers in ALL CAPS help the ATS sort information.
+- Use the posting's exact job title on the resume.
+- A company context statement goes after the company name, title, and dates.
+- An in-progress certification the job requires can be listed as "Pursuing [credential]."
+- Length is not penalized by the ATS, but two pages is wise for human readers. Put the name and "Page 2" in the header of page two.
+- Keep simple formatting such as bold, caps, and bullets, since a person reads it next.
+- Upload the resume rather than pasting into text boxes. A referral usually still goes through the ATS. Check spam for confirmation emails.
+- The guide recommends saving as .doc (Word 97-2003) because not all systems read .docx or PDF. This reads as older advice. Most current systems read .docx, so follow the posting's stated format first.
+
+**What this means:** These rules shape the resume format in Steps 9 and 10.
+
+## 7. What the research does not cover
 
 - No solid study tests a problem-first summary against a standard one. Treat the problem-first approach as a strong idea to test, not a proven rule.
 - One real-world signal: a CFO told a candidate that her opening line, "Paralegal turned data scientist," caught his attention, and he connected it to her problem solving on his own. That is one reader, so treat contrast lines as worth testing too.
