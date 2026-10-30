@@ -85,4 +85,4 @@ career-theme-pitch/
 
 ## A note on the research
 
-Some of the research is strong, such as Harvard Business School's Hidden Workers report. Some is anecdotal, such as recruiter posts on Reddit. Some comes from LinkedIn's own product pages and demos, which may not match how the tools behave in every case. The research file rates each source so you can weigh it yourself. Treat the problem-first summary as a strong idea to test, not a guarantee.
+Some of the research is strong, such as Harvard Business School's Hidden Workers report. Some is practical guidance, such as the University of Illinois Chicago career office's guide to applicant tracking systems. Some is anecdotal, such as recruiter posts on Reddit. Some comes from LinkedIn's own product pages and demos, which may not match how the tools behave in every case. The research file rates each source so you can weigh it yourself. Treat the problem-first summary as a strong idea to test, not a guarantee.
